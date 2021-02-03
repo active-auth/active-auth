@@ -1,0 +1,11 @@
+[submodule "active-auth-iam-core"]
+	path = active-auth-iam-core
+	url = https://github.com/active-auth/active-auth-iam-core
+
+[submodule "active-auth-iam-portal"]
+	path = active-auth-iam-portal
+	url = https://github.com/active-auth/active-auth-iam-portal
+	
+[submodule "active-auth-iam-plugin-email"]
+	path = active-auth-iam-plugin-email
+	url = https://github.com/active-auth/active-auth-iam-plugin-email
